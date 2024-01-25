@@ -23,4 +23,19 @@ This is a table:
 | Ship Date                                        | Date of order shiped                           | DATE                         |
 | Unit Sold                                        | Number of unit sold                            | FLOAT                        |
 | Unit Price                                       | Price of each unit                             | FLOAT                        |
-| Unit Cost                                        | Cost required for 
+| Unit Cost                                        | Cost required for each unit                    | FLOAT                        |
+| Total Revenue                                    | Total revenue generated                        | FLOAT                        |
+| Total Cost                                       | Total Cost required                            | FLOAT                        |
+| Total Profit                                     | Total profit made                              | FLOAT                        |
+
+
+
+
+
+
+
+
+
+
+
+
