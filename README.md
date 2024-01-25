@@ -14,4 +14,13 @@ This is a table:
 | Column                                           | Description Data                               | Type                         | 
 |---                                               | ---                                            |  ---                         |
 | Region                                           | Geographical region of sales made              | VARCHAR(50)                  |
-
+| Country                                          | Location of the sales                          | VARCHAR(30)                  |
+| Item Type                                        | Type of Item Sold                              | VARCHAR(30)                  |
+| Sales Channel                                    | Mode of sales                                  | VARCHAR(30)                  |
+| Order Priority                                   | Level of Urgency                               | VARCHAR(10)                  |
+| Order Date                                       | Date of order placed                           | DATE                         |
+| Order ID                                         | unique id of order placed                      | VARCHAR(50)                  |
+| Ship Date                                        | Date of order shiped                           | DATE                         |
+| Unit Sold                                        | Number of unit sold                            | FLOAT                        |
+| Unit Price                                       | Price of each unit                             | FLOAT                        |
+| Unit Cost                                        | Cost required for 
