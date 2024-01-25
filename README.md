@@ -12,6 +12,6 @@ The dataset was obtained from [Amazon-Sales-Data](https://drive.google.com/file/
 This is a table:
 
 | Column                                           | Description Data                               | Type                         | 
-|---                                               |   ___                                          |  ---                         |
+|---                                               | ---                                            |  ---                         |
 | Region                                           | Geographical region of sales made              | VARCHAR(50)                  |
 
