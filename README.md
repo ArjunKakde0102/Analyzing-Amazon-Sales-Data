@@ -29,7 +29,9 @@ This is a table:
 | Total Profit                                     | Total profit made                              | FLOAT                        |
 
 
-
+# ETL
+* In excel file there are two date format columns which have text datatype and having error while imorting that csv file to mysql database
+* To solve this issue I have use python to transform that column to datetime format which was not able in excel sheet.After that load data in mysql database with python script.
 
 
 
